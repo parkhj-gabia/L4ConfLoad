@@ -1,0 +1,24 @@
+Enter password:
+System Information at 18:40:07 Fri Feb  6, 2026
+
+Alteon Application Switch 3408
+
+Switch is up 1 day, 5 hours, 16 minutes and 50 seconds.
+Last boot: 13:23:14 Thu Feb  5, 2026 (reset from console)
+Last apply: 11:56:52 Tue Jan  6, 2026
+Last save:  4:36:01 Thu Dec 18, 2025
+
+MAC Address: 00:15:e8:c7:c0:00    IP (If 1) Address: 0.0.0.0
+Hardware Order No:   EB1412004     Serial No: SSCPC80296 Rev: 10
+Mainboard Hardware:                  Part No: P315790-A  Rev: 04
+Management Processor Board Hardware: Part No: P314080-A  Rev: 02
+Gig Ethernet Board Hardware:         Part No: P314140-A  Rev: 04
+
+Software Version 22.0.4 (FLASH image1), factory default configuration.
+
+------------------------------------------------------------------
+Note: There are configuration changes pending.  Use "diff"
+      to see them, "apply" to make them operational if
+      desired, and "save" to make them permanent.
+------------------------------------------------------------------
+Confirm seeing above note [y]:

@@ -1,0 +1,4 @@
+Enter password:
+Confirm seeing above note [y]:
+Would you like to run "Set Up" to configure the switch? [y/n]
+>> Main#

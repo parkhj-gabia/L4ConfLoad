@@ -1,0 +1,57 @@
+Enter password:
+System Information at  7:04:30 Mon Feb  9, 2026
+
+Alteon Application Switch 3408
+
+Switch is up 0 days, 21 hours, 0 minutes and 9 seconds.
+Last boot: 10:04:19 Sun Feb  8, 2026 (reset from console)
+Last apply: 11:56:52 Tue Jan  6, 2026
+Last save:  4:36:01 Thu Dec 18, 2025
+
+MAC Address: 00:15:e8:c7:c0:00    IP (If 1) Address: 0.0.0.0
+Hardware Order No:   EB1412004     Serial No: SSCPC80296 Rev: 10
+Mainboard Hardware:                  Part No: P315790-A  Rev: 04
+Management Processor Board Hardware: Part No: P314080-A  Rev: 02
+Gig Ethernet Board Hardware:         Part No: P314140-A  Rev: 04
+
+Software Version 22.0.4 (FLASH image1), factory default configuration.
+
+------------------------------------------------------------------
+NOTE: System dump exists in FLASH.
+      The main dump was saved at  1:02:49 Sat Aug  6, 2022.
+      A backup dump was saved at  4:30:37 Thu Dec 18, 2025.
+      Use /maint/uudmp or /maint/ptdmp to extract the dumps for
+      analysis and /maint/cldmp to clear the FLASH region.
+------------------------------------------------------------------
+
+The switch is booted with factory default configuration.
+  To ease the configuration of the switch, a "Set Up" facility which
+  will prompt you with those configuration items that are essential
+  to the operation of the switch is provided.
+Would you like to run "Set Up" to configure the switch? [y/n] n
+------------------------------------------------------------
+[Main Menu]
+     info     - Information Menu
+     stats    - Statistics Menu
+     cfg      - Configuration Menu
+     oper     - Operations Command Menu
+     boot     - Boot Options Menu
+     maint    - Maintenance Menu
+     diff     - Show pending config changes  [global command]
+     apply    - Apply pending config changes [global command]
+     save     - Save updated config to FLASH [global command]
+     revert   - Revert pending or applied changes [global command]
+     exit     - Exit  [global command, always available]
+
+>> Main# lines 0
+Lines-per-screen changed from 24 to 0
+
+>> Main# script start "Alteon Application Switch 5224" 4  /**** DO NOT EDIT THIS LINE!
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Error: incompatible script file.
+ This switch is type "Alteon Application Switch 3408";
+ file was generated on type "Alteon Application Switch 5224".
+Skipping to script end (or ^C)...
